@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hamburger {
+    width: 30px;
+    margin: 20px;
+}
+
+
+.bar {
+    display: block;
+    background-color: black;
+    width: 50px;
+    height: 5px;
+    margin: 10px;
+}
+
+.nav-menu {
+    list-style: none;
+    display: none;
+    
+}
